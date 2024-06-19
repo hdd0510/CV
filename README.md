@@ -18,6 +18,6 @@
    ```
    For window, just copy the script and paste then run in terminal
    
-   With the model checkpoint that we trained, the config is weight 32 which can be found in experiment with the corresponding name of the model
+   With the model checkpoint that we trained, the config is weight 32 which can be found in experiment with the corresponding name of the model (model with darkpose method also used the same config with the normal one)
    
    
