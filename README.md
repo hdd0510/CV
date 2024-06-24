@@ -22,5 +22,5 @@
 
 #### Checkpoint: 
 ##### PCT: https://drive.google.com/drive/folders/107FHPT7e_ELVbRQLpQbJ8YSW9v8iL9xb
-##### HRnet+Dark: https://drive.google.com/drive/u/0/my-drive
+##### HRnet+Dark: https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing
 ##### Hourglass+Dark: https://drive.google.com/drive/u/0/my-drive
