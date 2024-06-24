@@ -21,6 +21,9 @@
    With the model checkpoint that we trained, the config is weight 32 which can be found in experiment with the corresponding name of the model (model with darkpose method also used the same config with the normal one)
 
 #### Checkpoint: 
-##### PCT: https://drive.google.com/drive/folders/107FHPT7e_ELVbRQLpQbJ8YSW9v8iL9xb
-##### HRnet+Dark: https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing
-##### Hourglass+Dark: https://drive.google.com/drive/u/0/my-drive
+##### PCT_base: [PCT_base_checkpoint](https://drive.google.com/drive/folders/107FHPT7e_ELVbRQLpQbJ8YSW9v8iL9xb)
+##### PCT_large: [PCT_large_checkpoint](https://drive.google.com/drive/folders/11Yw84kpuIg26Y3qTqgXLyMcjZV4rl6yj?usp=sharing)
+
+##### HRnet: [HRnet_checkpoint](https://drive.google.com/file/d/1BjL19fQ5h9p1CYBeluZuHFE3Q-LuZcBT/view?usp=sharing)
+##### HRnet+Dark: [HR_Dark_checkpoint](https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing)
+##### Hourglass+Dark: [Hour_Dark_checkpoint](https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing)
