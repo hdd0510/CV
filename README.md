@@ -26,4 +26,4 @@
 
 ##### HRnet: [HRnet_checkpoint](https://drive.google.com/file/d/1BjL19fQ5h9p1CYBeluZuHFE3Q-LuZcBT/view?usp=sharing)
 ##### HRnet+Dark: [HR_Dark_checkpoint](https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing)
-##### Hourglass+Dark: [Hour_Dark_checkpoint]([https://drive.google.com/file/d/1fC1KglzdjLQgV-JsrNRkwRwLfvJ60k0Y/view?usp=sharing](https://drive.google.com/file/d/1HuAixD-GBY3tYsrcWbv1D1vpTJNKDZHr/view?usp=sharing))
+##### Hourglass+Dark: [Hour_Dark_checkpoint](https://drive.google.com/file/d/1HuAixD-GBY3tYsrcWbv1D1vpTJNKDZHr/view?usp=sharing)
